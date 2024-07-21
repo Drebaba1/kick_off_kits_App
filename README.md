@@ -1,4 +1,4 @@
-# food_shopper
+# Kick_off Kits
 
 Kick Off Kits is an application where various football jersey items and prices are being showcased for users to see. It was built using the [flutter SDK](https://flutter.dev/) and the [Timbu App](https://app.timbu.cloud/). 
 
@@ -39,7 +39,7 @@ Use the command `flutter run` to run the application.
 
 ## Apk Download
 
-you can download the apk file [here]()
+you can download the apk file [here](https://drive.google.com/drive/folders/1sPjHJgwzrNLSQbFb_E0myjCyuzao3D8y?usp=drive_link)
 
 
 ## Demo 
